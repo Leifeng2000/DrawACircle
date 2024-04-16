@@ -19,9 +19,4 @@ class Circles
     {
         return 3.14f*2*radius;
     }
-
-    internal object? AreaCircle()
-    {
-        throw new NotImplementedException();
-    }
 }
